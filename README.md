@@ -1,5 +1,5 @@
-### 海滨重症 👋
-##  我们是一个小型综合ICU
+## 海滨重症 👋
+###  我们是一个小型综合ICU
 
 <!--
 **humorlife/humorlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
