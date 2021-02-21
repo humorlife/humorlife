@@ -6,7 +6,7 @@
   <link href="https://humorlife.github.io/atom.xml" rel="self"/>
   
   <link href="https://humorlife.github.io/"/>
-  <updated>2021-02-21T14:17:09.050Z</updated>
+  <updated>2021-02-21T15:34:43.333Z</updated>
   <id>https://humorlife.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>git的主分支默认是main</title>
+    <link href="https://humorlife.github.io/2021/02/21/git%E7%9A%84%E4%B8%BB%E5%88%86%E6%94%AF%E9%BB%98%E8%AE%A4%E6%98%AFmain/"/>
+    <id>https://humorlife.github.io/2021/02/21/git%E7%9A%84%E4%B8%BB%E5%88%86%E6%94%AF%E9%BB%98%E8%AE%A4%E6%98%AFmain/</id>
+    <published>2021-02-21T15:29:35.000Z</published>
+    <updated>2021-02-21T15:34:43.333Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="github默认主分支以前是master，现在是main。"><a href="#github默认主分支以前是master，现在是main。" class="headerlink" title="github默认主分支以前是master，现在是main。"></a>github默认主分支以前是master，现在是main。</h1><h2 id="github-pages可以自动更新部署。"><a href="#github-pages可以自动更新部署。" class="headerlink" title="github pages可以自动更新部署。"></a>github pages可以自动更新部署。</h2><h2 id="gitee普通用户需要手动更新。"><a href="#gitee普通用户需要手动更新。" class="headerlink" title="gitee普通用户需要手动更新。"></a>gitee普通用户需要手动更新。</h2><p>actions是github的一项服务，能自动化完成任务。</p><p>gitee pages actions执行过程中是先要把github克隆到gitee上去的，会删除你自己设置的分支，所以分支都要设置为常规，不能有保护，否则出错。</p><p>yml脚本内，分支应该和github一致，gitee中也要和github一致。</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;github默认主分支以前是master，现在是main。&quot;&gt;&lt;a href=&quot;#github默认主分支以前是master，现在是main。&quot; class=&quot;headerlink&quot; title=&quot;github默认主分支以前是master，现在是main。&quot;&gt;&lt;/a</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>重症AI关乎伦理的5件事</title>
